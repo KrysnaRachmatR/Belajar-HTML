@@ -1,8 +1,4 @@
+section{
+    min-height: 420px;
 
-.login-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh; /* Set the height to the full viewport height */
 }
-
